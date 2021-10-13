@@ -10,9 +10,9 @@
 <p align="center">If that excites you, we need your help! Check out our <a href="https://scottscheapflights.com/careers">careers page</a> to apply. ⚡</p>
 
 <p align="center">
-  <a href="https://scottscheapflights.com">Website</a>💻
+  <a href="https://scottscheapflights.com">Website</a>
 |
-<a href="https://scottscheapflights.com/careers">Careers</a>🚀
+  <a href="https://scottscheapflights.com/careers">Careers</a>
 |
-<a href="https://scottscheapflights.com/contact">Contact us</a>🎙
+  <a href="https://scottscheapflights.com/contact">Contact us</a>
 </p>
